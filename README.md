@@ -7,7 +7,6 @@ Automated weather data collection, threshold-based email alerting, and analytica
 - **Domain:** Sustainability & Green Tech
 - **Platform:** ServiceNow Personal Developer Instance (`dev407431`)
 - **Application Scope:** `Weather Reports Automation`
-- **Author:** Fauzan Novrizal Azmeira — Computer Engineering, Universitas Pendidikan Indonesia
 
 ## Key Features
 
